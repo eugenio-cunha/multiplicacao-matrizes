@@ -1,7 +1,8 @@
 package multiplicacaomatrizes;
 
 /**
- * Eugenio Cunha genio.py@gmail.com
+ * Eugenio Cunha 
+ * genio.py@gmail.com
  */
 public class MultiplicacaoMatrizes {
 
